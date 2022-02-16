@@ -1,12 +1,6 @@
 multiCameraEnable=TRUE
-logInfoMask=0x0
-overrideLogLevels=0x1
-logWarningMask=0
-logConfigMask=0
-systemLogEnable=TRUE
-enableAsciiLogging=FALSE
-logRequestMapping=FALSE
-traceGroupsEnable=0
+logInfoMask=0x10098
+overrideLogLevels=0x1F
 MPMSizeThresToDisableDelayedUnmap=0
 MPMForceDisableDelayedUnmap=TRUE
 #pdafHWEnable=TRUE
