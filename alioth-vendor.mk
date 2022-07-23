@@ -145,6 +145,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/alioth/proprietary/vendor/firmware/spk1_voice_delta.txt:$(TARGET_COPY_OUT_VENDOR)/firmware/spk1_voice_delta.txt \
     vendor/xiaomi/alioth/proprietary/vendor/firmware/spk2_playback_delta.txt:$(TARGET_COPY_OUT_VENDOR)/firmware/spk2_playback_delta.txt \
     vendor/xiaomi/alioth/proprietary/vendor/firmware/spk2_voice_delta.txt:$(TARGET_COPY_OUT_VENDOR)/firmware/spk2_voice_delta.txt \
+    vendor/xiaomi/alioth/proprietary/vendor/firmware/wlanmdsp.otaupdate:$(TARGET_COPY_OUT_VENDOR)/firmware/wlanmdsp.otaupdate \
     vendor/xiaomi/alioth/proprietary/vendor/lib/hw/audio.primary.kona.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/audio.primary.kona.so \
     vendor/xiaomi/alioth/proprietary/vendor/lib/hw/vendor.qti.hardware.audiohalext@1.0-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/vendor.qti.hardware.audiohalext@1.0-impl.so \
     vendor/xiaomi/alioth/proprietary/vendor/lib/hw/vendor.qti.hardware.sensorscalibrate@1.0-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/vendor.qti.hardware.sensorscalibrate@1.0-impl.so \
